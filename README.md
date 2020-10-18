@@ -20,7 +20,7 @@
 ## 2020
 
 - 중고 스마트폰 거래를 위한 모바일 어플리캐이션
-  - 분류: SK텔링크 외주 프로젝트
-  - 기간: 1월 ~ 2월 (약 한달)
+  - 분류: 5works 인턴
+  - 기간: 1월 ~ 2월 (약 한달 반)
   - 설명: [중고폰거래 설명](https://github.com/201810794/Used-smartphone-transaction-application/blob/master/README.md)
   - 소스코드: (미공개)
